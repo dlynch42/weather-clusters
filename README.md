@@ -52,4 +52,3 @@ The dataset used in this project consists of synthetic weather-related features 
 ## Acknowledgments
 
 - This project utilizes a synthetic weather dataset sourced from [Kaggle](https://www.kaggle.com/datasets/nikhil7280/weather-type-classification/code).
-- Credits to the creators of scikit-learn, pandas, and other open-source libraries used in the analysis.
